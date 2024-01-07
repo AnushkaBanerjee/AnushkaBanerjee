@@ -1,15 +1,7 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
 <h1 align="center">Hi 👋, I'm Anushka Banerjee</h1>
 <h3 align="center">A passionate developer from India!</h3>
 
-<img align="right" width="400"src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkabanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="anushkabanerjee" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushkabanerjee" alt="anushkabanerjee" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anushkabanerjee" target="blank"><img src="https://img.shields.io/twitter/follow/anushkabanerjee?logo=twitter&style=for-the-badge" alt="anushkabanerjee" /></a> </p>
 
@@ -39,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkabanerjee&show_icons=true&locale=en" alt="anushkabanerjee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkabanerjee&" alt="anushkabanerjee" /></p>
-++
