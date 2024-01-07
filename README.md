@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Boostrap,React.js**
 
-- 📫 How to reach me **anushkabanerjee03@gmail.com**
+- 📫 How to reach me **anushkabanerjee03@gmail.com** 
 
-- ⚡ Fun fact **I love food!!**
+- ⚡ Fun fact **I'm not a robot!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
