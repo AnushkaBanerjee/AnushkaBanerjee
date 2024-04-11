@@ -2,7 +2,7 @@
 ![Banner](https://github.com/AnushkaBanerjee/AnushkaBanerjee/assets/109134279/4b3826cf-3c0b-47bc-a915-495c869126a8)
 
 # 💫 About Me:
-🔭 I’m currently working on a new project  <br>🤝 I love exploring new technologies and building cool projects<br>🌱 I’m currently learning Backend in JS<br>💬 Ask me about Programming<br>⚡ Fun fact "I am currently getting a arrays(a raise)"
+🔭 I’m currently working on a new project  <br>🤝 I love exploring new technologies and building cool projects<br>🌱 I’m currently learning Backend in JS<br>💬 Ask me about Programming<br>⚡ Fun fact "I am currently getting arrays(a raise)"
 
 
 ## 🌐 Socials:
